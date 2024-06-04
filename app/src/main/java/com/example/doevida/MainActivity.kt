@@ -10,30 +10,16 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        findViewById<Button>(R.id.button).setOnClickListener {
+        findViewById<Button>(R.id.loginButton).setOnClickListener{
             val i = intent
-            val j = Intent(this, DonationScheduleActivity::class.java)
+            val j = Intent(this, LoginActivity::class.java)
             j.putExtras(i)
             startActivity(j)
         }
 
-        findViewById<Button>(R.id.button2).setOnClickListener {
+        findViewById<Button>(R.id.registerButton).setOnClickListener{
             val i = intent
-            val j = Intent(this, DonationRequiredActivity::class.java)
-            j.putExtras(i)
-            startActivity(j)
-        }
-
-        findViewById<Button>(R.id.button3).setOnClickListener{
-            val i = intent
-            val j = Intent(this, ProfileActivity::class.java)
-            j.putExtras(i)
-            startActivity(j)
-        }
-
-        findViewById<Button>(R.id.button4).setOnClickListener{
-            val i = intent
-            val j = Intent(this, InfoActivity::class.java)
+            val j = Intent(this, RegisterActivity::class.java)
             j.putExtras(i)
             startActivity(j)
         }
