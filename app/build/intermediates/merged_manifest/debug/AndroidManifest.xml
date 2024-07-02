@@ -36,6 +36,15 @@
             android:name="com.example.doevida.LoginActivity"
             android:exported="false" />
         <activity
+            android:name="com.example.doevida.FeedActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.doevida.AddPostActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.doevida.ChatActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.doevida.MainActivity"
             android:exported="true" >
             <intent-filter>

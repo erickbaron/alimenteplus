@@ -15,7 +15,7 @@ class RegisterCompleteActivity : AppCompatActivity() {
                 btnNext.setOnClickListener {
                         // Ação a ser executada quando o botão é clicado
                         val i = intent
-                        val j = Intent(this, MainActivity::class.java)
+                        val j = Intent(this, FeedActivity::class.java)
                         j.putExtras(i)
                         startActivity(j)
                 }

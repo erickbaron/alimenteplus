@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\layout_activity_header.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\layout\\activity_header.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\drawable\\ic_add.xml"
     },
     {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\drawable_rounded_button_filled.xml.flat",
@@ -16,76 +16,52 @@
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-anydpi-v26_alimente_logo_round.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-anydpi-v26\\alimente_logo_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-hdpi_alimente_logo_foreground.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-hdpi\\alimente_logo_foreground.webp"
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\drawable\\ic_arrow_back.xml"
     },
     {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xhdpi_alimente_logo.webp.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xhdpi\\alimente_logo.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\drawable_alimente_logo.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\drawable\\alimente_logo.png"
-    },
-    {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-hdpi_alimente_logo.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-hdpi\\alimente_logo.webp"
-    },
-    {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xhdpi_alimente_logo_round.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xhdpi\\alimente_logo_round.webp"
-    },
-    {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\layout_activity_footbar.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\layout\\activity_footbar.xml"
     },
     {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-anydpi-v26_alimente_logo.xml.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-anydpi-v26\\alimente_logo.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\xml\\data_extraction_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-mdpi_alimente_logo.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-mdpi\\alimente_logo.webp"
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\drawable\\ic_send.xml"
     },
     {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "com.example.doevida.app-merged_res-28:/layout_activity_chat.xml.flat",
+        "source": "com.example.doevida.app-main-30:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\layout\\activity_chat.xml"
+    },
+    {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xxxhdpi_alimente_logo.webp.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxxhdpi\\alimente_logo.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\layout\\activity_register.xml"
-    },
-    {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\drawable\\ic_launcher_foreground.xml"
     },
     {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\layout_activity_register_complete.xml.flat",
@@ -104,64 +80,20 @@
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-hdpi\\alimente_logo_round.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-hdpi\\ic_launcher_foreground.webp"
-    },
-    {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "com.example.doevida.app-merged_res-28:/layout_activity_register.xml.flat",
-        "source": "com.example.doevida.app-main-30:/layout/activity_register.xml"
-    },
-    {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xhdpi_alimente_logo_foreground.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xhdpi\\alimente_logo_foreground.webp"
-    },
-    {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xxhdpi_alimente_logo.webp.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxhdpi\\alimente_logo.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xxxhdpi_alimente_logo_round.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxxhdpi\\alimente_logo_round.webp"
-    },
-    {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-mdpi_alimente_logo_round.webp.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-mdpi\\alimente_logo_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\drawable_border.xml.flat",
@@ -172,6 +104,126 @@
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\drawable\\rounded_button_border.xml"
     },
     {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xxxhdpi_alimente_logo_foreground.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxxhdpi\\alimente_logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\layout_activity_feed.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\layout\\activity_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\layout_activity_feed_item.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\layout\\activity_feed_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-anydpi-v26_alimente_logo_round.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-anydpi-v26\\alimente_logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-hdpi_alimente_logo_foreground.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-hdpi\\alimente_logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\layout_activity_add_post.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\layout\\activity_add_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\drawable_ic_chat.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\drawable\\ic_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\drawable_alimente_logo.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\drawable\\alimente_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-hdpi_alimente_logo.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-hdpi\\alimente_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xhdpi_alimente_logo_round.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xhdpi\\alimente_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-mdpi_alimente_logo.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-mdpi\\alimente_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xhdpi_alimente_logo_foreground.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xhdpi\\alimente_logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.doevida.app-merged_res-28:/layout_message_sent.xml.flat",
+        "source": "com.example.doevida.app-main-30:/layout/message_sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xxxhdpi_alimente_logo_round.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxxhdpi\\alimente_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.doevida.app-merged_res-28:/layout_message_received.xml.flat",
+        "source": "com.example.doevida.app-main-30:/layout/message_received.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\layout\\activity_main.xml"
     },
@@ -180,8 +232,8 @@
         "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxhdpi\\alimente_logo_round.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-xxxhdpi_alimente_logo_foreground.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\mipmap-xxxhdpi\\alimente_logo_foreground.webp"
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\layout_activity_item_message.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-main-30:\\layout\\activity_item_message.xml"
     },
     {
         "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.0\\com.example.doevida.app-merged_res-28:\\mipmap-mdpi_alimente_logo_foreground.webp.flat",

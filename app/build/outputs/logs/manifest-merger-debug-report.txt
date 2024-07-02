@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:2:1-44:12
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\Usuario\.gradle\caches\transforms-3\3c9b0bf32ac5a508711f5b6cd264dfe6\transformed\material-1.8.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Usuario\.gradle\caches\transforms-3\e64150522a85b3dc5137a03f84c1e31e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Usuario\.gradle\caches\transforms-3\e56fdac0f9b9861d3d7a0dedb97a301d\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -55,8 +55,8 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Usuario\.gradle\caches\transfo
 	xmlns:android
 		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:5:5-33:19
-INJECTED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:5:5-33:19
+ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:5:5-42:19
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:5:5-42:19
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\Usuario\.gradle\caches\transforms-3\3c9b0bf32ac5a508711f5b6cd264dfe6\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\Usuario\.gradle\caches\transforms-3\3c9b0bf32ac5a508711f5b6cd264dfe6\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Usuario\.gradle\caches\transforms-3\e64150522a85b3dc5137a03f84c1e31e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -111,22 +111,40 @@ ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidMa
 		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
 		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:22:13-42
-activity#com.example.doevida.MainActivity
-ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:24:9-32:20
+activity#com.example.doevida.FeedActivity
+ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:24:9-26:36
 	android:exported
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:26:13-36
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:26:9-33
 	android:name
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:25:13-41
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:25:9-37
+activity#com.example.doevida.AddPostActivity
+ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:28:13-44
+activity#com.example.doevida.ChatActivity
+ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:31:13-41
+activity#com.example.doevida.MainActivity
+ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:exported
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:34:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:36:13-40:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:37:17-69
 	android:name
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:37:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:39:17-77
 	android:name
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml:39:27-74
 uses-sdk
 INJECTED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Usuario\AndroidStudioProjects\DoeVida\app\src\main\AndroidManifest.xml

@@ -2712,7 +2712,10 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_add
+drawable ic_arrow_back
 drawable ic_arrow_back_black_24
+drawable ic_chat
 drawable ic_clear_black_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
@@ -2726,6 +2729,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
+drawable ic_send
 drawable m3_appbar_background
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
@@ -2901,7 +2905,12 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id btnNext
+id buttonAdd
+id buttonBack
+id buttonChat
 id buttonPanel
+id buttonPost
+id buttonSend
 id cache_measures
 id callMeasure
 id cancel_button
@@ -2973,6 +2982,8 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id editTextMessage
+id editTextPostContent
 id edit_query
 id elastic
 id embed
@@ -3001,6 +3012,7 @@ id fitXY
 id fixed
 id flip
 id floating
+id footbar
 id forever
 id fragment_container_view_tag
 id frost
@@ -3013,6 +3025,7 @@ id graph_wrap
 id group_divider
 id grouping
 id groups
+id header
 id header_title
 id hideable
 id home
@@ -3151,6 +3164,8 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerView
+id recyclerViewChat
 id registerButton
 id reverseSawtooth
 id right
@@ -3251,10 +3266,15 @@ id tag_window_insets_animation_callback
 id text
 id text2
 id textEnd
+id textMessageReceived
+id textMessageSent
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textViewDescription
+id textViewMessage
+id textViewUsername
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3409,6 +3429,13 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_add_post
+layout activity_chat
+layout activity_feed
+layout activity_feed_item
+layout activity_footbar
+layout activity_header
+layout activity_item_message
 layout activity_login
 layout activity_main
 layout activity_register
@@ -3448,6 +3475,8 @@ layout material_time_input
 layout material_timepicker
 layout material_timepicker_dialog
 layout material_timepicker_textinput_display
+layout message_received
+layout message_sent
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
